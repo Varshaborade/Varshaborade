@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varsha Borade</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-Results-driven Data Analyst with 3+ years of experience in turning raw data into meaningful insights that drive business decisions.I specialize in SQL, Power BI, Python (Pandas, NumPy), and Excel, with hands-on experience across diverse domains like pharmaceutical quality control, online gaming analytics, and digital marketing performance. I enjoy solving complex problems using data and building dashboards that simplify decision-making for stakeholders.
+Result-driven Data Analyst with 3+ years of experience in turning raw data into meaningful insights that drive business decisions.I specialize in SQL, Power BI, Python (Pandas, NumPy), and Excel, with hands-on experience across diverse domains like pharmaceutical quality control, online gaming analytics, and digital marketing performance. I enjoy solving complex problems using data and building dashboards that simplify decision-making for stakeholders.
 
 🔍 Recently, I’ve worked on projects involving:
 
