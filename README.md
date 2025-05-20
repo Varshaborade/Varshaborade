@@ -1,15 +1,27 @@
 <h1 align="center">Hi 👋, I'm Varsha Borade</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Funnel Performance Analysis Dashboard**
+Results-driven Data Analyst with 3+ years of experience in turning raw data into meaningful insights that drive business decisions.I specialize in SQL, Power BI, Python (Pandas, NumPy), and Excel, with hands-on experience across diverse domains like pharmaceutical quality control, online gaming analytics, and digital marketing performance. I enjoy solving complex problems using data and building dashboards that simplify decision-making for stakeholders.
 
-- 🌱 I’m currently learning **Python**
+🔍 Recently, I’ve worked on projects involving:
 
-- 💬 Ask me about **Data Analysis Project**
+SQL-based analysis of airline databases
 
-- 📫 How to reach me **varshaborade1028@gmail.com**
+Predictive modeling for customer retention
 
-- ⚡ Fun fact **I am good at playing Pickleball**
+Real-time quality monitoring dashboards for pharma manufacturing
+
+ROI analysis of large-scale marketing campaigns
+
+📊 I share projects here that demonstrate my skills in data cleaning, querying, visualization, and business problem-solving.
+
+🚀 I’m currently open to opportunities in Data Analytics, BI, or Reporting roles.
+
+Let’s connect or collaborate on something exciting!
+
+📫 How to reach me **varshaborade1028@gmail.com**
+
+⚡ Fun fact **I am good at playing Pickleball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
