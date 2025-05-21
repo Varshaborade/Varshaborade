@@ -5,7 +5,7 @@ Result-driven Data Analyst with 3+ years of experience in turning raw data into 
 
 🔍 Recently, I’ve worked on projects involving:
 
-SQL-based analysis of airline databases
+SQL-based analysis of databases
 
 Predictive modeling for customer retention
 
